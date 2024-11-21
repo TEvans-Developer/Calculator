@@ -3,3 +3,7 @@
 pyvenv.cfg
 Scripts
 Lib
+build\calc
+build
+dist
+calc.spec
