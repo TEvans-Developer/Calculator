@@ -4,7 +4,7 @@
    </br>- GUI Development
    </br>- Object-Oriented Programming
    </br>- Event-driven programming
-   - Problem-solving
+   </br>- Problem-solving
    <ol>
     <li>Algorithm design</li>
     <li>Logical implementation (calculator functionalities)</li>
