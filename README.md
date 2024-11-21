@@ -1,2 +1,13 @@
 # calculator-app
- This calculator app is a small project that displays my coding and programming skills in Python, HTML, CSS and JavaScript.
+ This calculator app is a small project that demonstrates my proficiency in coding and programming skills in Python. 
+   </br>- Implent Tkinter for GUI development
+   </br>- Object-Oriented Programming
+   </br>- Event-driven programming
+   </br>- Problem-solving
+   <ol>
+    <li>Algorithm design</li>
+    <li>Logical implementation (calculator functionalities)</li>
+   </ol>
+   - Debugging 
+   </br>- Version control
+   </br>- Testing
