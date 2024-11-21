@@ -4,11 +4,11 @@
    </br>- GUI Development
    </br>- Object-Oriented Programming
    </br>- Event-driven programming
-   </br>- Problem-solving
+   - Problem-solving
    <ol>
     <li>Algorithm design</li>
     <li>Logical implementation (calculator functionalities)</li>
    </ol>
-   </br>- Debugging 
+   - Debugging 
    </br>- Version control
    </br>- Testing
