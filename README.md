@@ -4,9 +4,10 @@
    </br>- GUI Development
    </br>- Object-Oriented Programming
    </br>- Event-driven programming
-   </br>- Problem-solving
-   </br>-  i. Algorithm design
-   </br>-  i. Logical implementation (calculator functionalities)
+   </br><ol>
+    <li>Algorithm design</li>
+    <li>Logical implementation (calculator functionalities)</li>
+   </ol>Problem-solving
    </br>-Debugging 
    </br> Version control
    </br> Testing
